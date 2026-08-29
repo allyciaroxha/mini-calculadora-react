@@ -25,6 +25,10 @@ Reforçar conceitos iniciais de React, como:
 - estilização com classes
 - organização da interface em blocos
 
+## Screenshots
+![Calculadora em React](./calc.png)
+
+
 ## Como executar
 1. Abra o arquivo `4-calculadora.html` no navegador.
 2. Certifique-se de que sua conexão com a internet esteja ativa para carregar os scripts do React e do Tailwind.
