@@ -1,4 +1,4 @@
-# 📐 React Básico - Calculadora
+# React Básico - Calculadora
 Projeto de revisão de React básico, criado para praticar a criação de componentes, uso de props, composição visual e renderização dinâmica com JavaScript.
 
 Neste projeto, desenvolvi uma calculadora simples com layout estilizado, utilizando React em um arquivo HTML e Tailwind CSS via CDN para reforçar os fundamentos da biblioteca.
